@@ -2,3 +2,8 @@ Menu:
 Veg starter : paneer tikka
 Non-veg-stater: chicken tikka
 Drink: mocktail
+
+------------------------------------------------
+Veg Main-course: Panner Pasanda
+Non-veg Meal: Chicken biryani
+
