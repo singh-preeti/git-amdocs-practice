@@ -1,0 +1,4 @@
+Menu: 
+Veg starter : paneer tikka
+Non-veg-stater: chicken tikka
+Drink: mocktail
