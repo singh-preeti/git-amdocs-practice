@@ -1,0 +1,4 @@
+Food menu: 
+Snacks and drinks: 
+ Pasta,Dosa
+ Cold drink and soft drinks
